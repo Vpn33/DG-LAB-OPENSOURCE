@@ -1,0 +1,6 @@
+server:
+  port: 9999
+
+logging: # 日志输出配置
+  level:
+    com.vpn33: DEBUG
